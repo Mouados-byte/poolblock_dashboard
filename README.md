@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![image](https://github.com/Mouados-byte/poolblock_dashboard/assets/74561965/79e36af3-a7e7-496c-8c51-6e21fe60b958)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
